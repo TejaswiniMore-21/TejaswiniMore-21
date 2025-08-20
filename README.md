@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tejaswini More</h1>
 <h3 align="center">A passionate Diploma Computer Science Student</h3>
 
-- 🔭 I’m currently working on **Agroprime**
+- 🔭 I’m currently working on **Agroprime Website**
 
 - 🌱 I’m currently learning **Reactjs and JavaScript**
 
-- 🤝 I’m looking for help with **for E-commerce**
+- 🤝 I’m looking for help with **for E-commerce Website**
 
 - 💬 Ask me about **Reactjs**
 
